@@ -1,0 +1,19 @@
+{
+	"name": "jhlx-wirecast",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Software",
+		"wirecast"
+	],
+	"manufacturer": "JHLX",
+	"product": "Wirecast Plugin",
+	"shortname": "wirecast",
+	"description": "Module to Control Wire Cast Plugin",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Jenton Hollingum <jenton@jhlx.co.uk>",
+	"license": "MIT"
+}
